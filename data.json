@@ -1,0 +1,279 @@
+{
+    "train":
+    [
+        {
+            "text": "settings", "label": "open_settings"
+        },
+        {
+            "text": "open setting", "label": "open_settings"
+        },
+        {
+            "text": "buksan ang settings", "label": "open_settings"
+        },
+        {
+            "text": "lukasan moy settings", "label": "open_settings"
+        },
+
+
+
+
+
+
+
+        {
+            "text": "SOS", "label": "call_sos"
+        },  
+        {
+            "text": "emergency", "label": "call_sos"
+        },
+        {
+            "text": "tumawag ng tulong", "label":"call_sos"
+        },
+        {
+            "text": "buksan ang SOS", "label":"call_sos"
+        },
+        {
+            "text": "call emergency", "label": "call_sos"
+        },
+        {
+            "text": "tumawag sa hospital", "label": "call_sos"
+        },
+        {
+            "text": "tumawag sa police", "label":"call_sos"
+        },
+        {
+            "text":"tumawag ng tulong", "label":"call_sos"
+        },
+        {
+            "text": "call an ambulance", "label": "call_sos"
+        },
+        {
+            "text": "tulong", "label": "call_sos"
+        },
+        {
+            "text": "call a hospital", "label":"call_sos"
+        },
+
+
+
+
+
+        {
+            "text":"buksan ang chat", "label":"open_chat"
+        },
+        {
+            "text":"open chat", "label": "open_chat"
+        },
+        {
+            "text": "lukasan moy chat", "label": "open_chat"
+        },
+        {
+            "text": "chat", "label": "open_chat"
+        },
+        {
+            "text": "buksan ang mga mensahe", "label": "open_chat"
+        },
+
+
+
+
+
+
+
+        {
+            "text": "create space", "label": "opencreate_space"
+        },
+        {
+            "text": "bumuo ng space", "label": "opencreate_space"
+        },
+        {
+            "text": "lukasan moy space", "label": "opencreate_space"
+        },
+        {
+            "text": "space", "label": "opencreate_space"
+        },
+
+
+
+
+
+
+        {
+            "text": "find a nearest police station", "label": "find_location"
+        },
+        {
+            "text": "find a nearest hospital", "label": "find_location"
+        },
+        {
+            "text": "find a nearest fire station", "label": "find_location"
+        },
+        {
+            "text": "find a nearest hotel", "label":"find_location"
+        },
+        {
+            "text": "humanap ng pinakamalapit na hotel", "label": "find_location"
+        },
+        {
+            "text": "humananap ka ng pinakamalapit na matutulugan", "label": "find_location"
+        },
+        {
+            "text": "matutulugan", "label": "find_location"
+        },
+        {
+            "text": "mananap kay asinger ya naugipan", "label":"find_location"
+        },
+        {
+            "text": "naugipan", "label": "find_location"
+        },
+        {
+            "text": "hotel", "label": "find_location"
+        },
+        {
+            "text": "find a nearest restaurant", "label": "find_location"
+        },
+        {
+            "text": "humanap ng pinakamalapit na restaurant", "label": "find_location"
+        },
+        {
+            "text": "humanap ng pinakamalapit na mapagkainan", "label": "find_location"
+        },
+        {
+            "text": "mananap kay asinger na napanganan", "label": "find_location"
+        },
+        {
+            "text": "find me a restaurant", "label": "find_location"
+        },
+        {
+            "text": "mapagkainan", "label": "find_location"
+        },
+        {
+            "text": "restaurant", "label": "find_location"
+        },
+        {
+            "text": "find a nearest mall", "label": "find_location"
+        },
+        {
+            "text": "humanap ng malapit na pamilihan", "label": "find_location"
+        },
+        {
+            "text": "mananap kay asinger ya napansaliwan", "label": "find_location"
+        },
+        {
+            "text": "mall", "label": "find_location"
+        },
+        {
+            "text": "pamilihan", "label": "find_location"
+        },
+
+
+
+
+
+
+
+
+        {
+            "text": "pwd friendly", "label": "pwd_route"
+        },
+        {
+            "text": "wheel chair route", "label": "pwd_route"
+        },
+        {
+            "text": "para sa may kapansanan", "label": "pwd_route"
+        },
+        {
+            "text": "pwd", "label": "pwd_route"
+        },
+        {
+            "text": "kapansanan", "label": "pwd_route"
+        },
+        {
+            "text": "person with disability", "label": "pwd_route"
+        },
+
+
+
+
+
+
+
+        {
+            "text": "open account", "label": "open_account"
+        },
+        {
+            "text": "account", "label": "open_account"
+        },
+        {
+            "text": "edit account", "label": "open_account"
+        },
+        {
+            "text": "change profile", "label":"open_account"
+        },
+        {
+            "text": "profile", "label": "open_account"
+        },
+
+
+
+        
+
+
+
+        {
+            "text": "check-in", "label": "set_checkin"
+        },
+        {
+            "text": "mag check-in", "label": "set_checkin"
+        },
+        {
+            "text": "set check-in", "label": "set_checkin"
+        },
+
+
+
+
+
+
+
+        {
+            "text": "safety", "label": "open_safety_contact"
+        },
+        {
+            "text": "safety contact", "label": "open_safety_contact"
+        },
+        {
+            "text": "show safety contact", "label": "open_safety_contact"
+        },
+        {
+            "text": "show contact", "label": "open_safety_contact"
+        },
+        {
+            "text": "buksan ang contact", "label": "open_safety_contact"
+        },
+        {
+            "text": "lukasan moy contact", "label": "open_safety_contact"
+        },
+
+
+
+
+
+
+        {
+            "text": "open favorite list", "label": "open_favorites"
+        },
+        {
+            "text": "buksan ang mga poborito", "label": "open_favorites"
+        },
+        {
+            "text": "favorites", "label": "open_favorires"
+        },
+        {
+            "text": "paborito", "label": "open_favorites"
+        },
+        {
+            "text": "lukansan mo iramay paboritok", "label": "open_favorites"
+        }
+
+    ]
+}
